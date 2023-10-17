@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+body {
+  font-family: 'Young Serif', serif;
+  margin: 0;
+  padding: 0;
+}
+.heading h1 {
+  font-size: 1.5rem;
+  text-align: center;
+  align-items: center;
+  background-color: green;
+  margin-right: 5px;
+  margin-left: 5px;
+  color: #fff;
+  padding-top:7px;
+  padding-bottom: 7px;
+  border-radius: 5px;
+}
+.content .thala {
+  font-size: 15px;
+  margin-left: 10px;
+  text-align: center;
+  align-items: center;
+}
+.content .base {
+  text-align: justify;
+  letter-spacing: 2px;
+  margin-right: 5px;
+  margin-left:5px;
+}
